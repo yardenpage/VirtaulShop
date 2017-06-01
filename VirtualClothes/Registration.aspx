@@ -35,7 +35,6 @@
                 <asp:ListItem Text="Underwears"></asp:ListItem> 
                 <asp:ListItem Text="Bathing suits"></asp:ListItem>
                                        </asp:CheckBoxList> <br />
-            <br />
             <asp:Button Text="Register" runat="server" OnClick="Register_Click" />
 
         </div>
